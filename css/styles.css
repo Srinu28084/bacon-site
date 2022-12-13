@@ -1,0 +1,54 @@
+/* TAG SELECTORS */
+
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: bisque;
+}
+
+
+
+
+
+
+
+
+
+/*CLASS SELECTORS*/
+
+.bacon {
+    background-color: aqua;
+}
+
+
+.tree {
+    background-color: aquamarine;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ID SELECTORS*/
+
+
+#heading:hover {
+    color: blueviolet;
+}
